@@ -23,5 +23,8 @@
   "homepage": "https://github.com/r0yster/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^6.2.1"
+  },
+  "dependencies": {
+    "graphql": "^15.5.1"
   }
 }
